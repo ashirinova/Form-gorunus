@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Form gorunus\Form gorunus\bin\Debug\net8.0-windows\Form gorunus.exe
+C:\Users\User\source\repos\Form gorunus\Form gorunus\bin\Debug\net8.0-windows\Form gorunus.deps.json
+C:\Users\User\source\repos\Form gorunus\Form gorunus\bin\Debug\net8.0-windows\Form gorunus.runtimeconfig.json
+C:\Users\User\source\repos\Form gorunus\Form gorunus\bin\Debug\net8.0-windows\Form gorunus.dll
+C:\Users\User\source\repos\Form gorunus\Form gorunus\bin\Debug\net8.0-windows\Form gorunus.pdb
+C:\Users\User\source\repos\Form gorunus\Form gorunus\obj\Debug\net8.0-windows\Form_gorunus.Form1.resources
+C:\Users\User\source\repos\Form gorunus\Form gorunus\obj\Debug\net8.0-windows\Form gorunus.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Form gorunus\Form gorunus\obj\Debug\net8.0-windows\Form gorunus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Form gorunus\Form gorunus\obj\Debug\net8.0-windows\Form gorunus.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Form gorunus\Form gorunus\obj\Debug\net8.0-windows\Form gorunus.AssemblyInfo.cs
+C:\Users\User\source\repos\Form gorunus\Form gorunus\obj\Debug\net8.0-windows\Form gorunus.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Form gorunus\Form gorunus\obj\Debug\net8.0-windows\Form gorunus.dll
+C:\Users\User\source\repos\Form gorunus\Form gorunus\obj\Debug\net8.0-windows\refint\Form gorunus.dll
+C:\Users\User\source\repos\Form gorunus\Form gorunus\obj\Debug\net8.0-windows\Form gorunus.pdb
+C:\Users\User\source\repos\Form gorunus\Form gorunus\obj\Debug\net8.0-windows\Form gorunus.genruntimeconfig.cache
+C:\Users\User\source\repos\Form gorunus\Form gorunus\obj\Debug\net8.0-windows\ref\Form gorunus.dll
+C:\Users\User\source\repos\Form gorunus\Form gorunus\obj\Debug\net8.0-windows\Form gor.3333B798.Up2Date
